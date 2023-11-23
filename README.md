@@ -1,6 +1,6 @@
-# Global COVID-19 Data Analysis
+## Global COVID-19 Data Analysis
+SQL queries in SQL Server for efficient exploration and analysis of worldwide COVID-19 deaths and vaccination data.
 
-This project focuses on the efficient exploration and analysis of worldwide COVID-19 deaths and vaccination data using SQL queries in SQL Server. The repository includes a detailed SQL file with descriptions for the queries.
 
 ## Overview
 
