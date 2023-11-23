@@ -1,5 +1,4 @@
-## Global COVID-19 Data Analysis
-SQL queries in SQL Server for efficient exploration and analysis of worldwide COVID-19 deaths and vaccination data.
+## Global COVID-19 Data Analysis: SQL queries in SQL Server for efficient exploration and analysis of worldwide COVID-19 deaths and vaccination data.
 
 
 ## Overview
