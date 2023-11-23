@@ -22,7 +22,7 @@ This repository contains data collected from [Our World in Data](https://ourworl
 
 - `CovidDeaths.xlsx`: Excel file containing COVID-19 death data.
 - `CovidVaccinations.xlsx`: Excel file containing COVID-19 vaccination data.
-- `SQLQueries/`: Folder containing SQL code files for various analyses.
+-  Folder(Create Portfolio Projects) containing SQL code files for various analyses.
 
 ## Usage
 
@@ -35,14 +35,8 @@ This repository contains data collected from [Our World in Data](https://ourworl
 3. **Customization**
    - Modify the SQL queries or Excel files to suit specific analytical needs.
 
-## Dependencies
 
-- SQL Server: Ensure you have a running SQL Server instance.
-- Excel: For initial data exploration and validation.
-
-
-## Acknowledgments
 
 - Data source: [Our World in Data](https://ourworldindata.org/covid-deaths).
 
-Happy analyzing!
+
