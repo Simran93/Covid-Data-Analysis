@@ -1,6 +1,5 @@
-
-# COVID-19 Data Analysis
-
+Project: "Global COVID-19 Analysis"
+SQL queries in SQL Server for efficient exploration and analysis of worldwide COVID-19 deaths and vaccination data. Included SQL file with query descriptions.
 ## Overview
 
 This repository contains data collected from [Our World in Data](https://ourworldindata.org/covid-deaths) on COVID-19 deaths and vaccination statistics. The data has been organized into two Excel files, namely `CovidDeaths.xlsx` and `CovidVaccinations.xlsx`. Subsequently, these files were imported into a SQL Server database, and various SQL queries were executed as outlined in the accompanying code files.
